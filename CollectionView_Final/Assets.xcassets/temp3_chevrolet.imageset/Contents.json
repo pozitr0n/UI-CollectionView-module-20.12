@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "temp3_chevrolet.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
